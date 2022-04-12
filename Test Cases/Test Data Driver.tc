@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Data Driver</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82999292-2ba1-4005-bbed-308a5366061b</testCaseGuid>
+   <variable>
+      <defaultValue>'Seoul CURA Healthcare Center\r\n'</defaultValue>
+      <description></description>
+      <id>da12a3dd-a3b4-4014-8076-716facc249b4</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+   <variable>
+      <defaultValue>'true\r\n'</defaultValue>
+      <description></description>
+      <id>9cf7d850-e2bf-4536-8622-c12608d39207</id>
+      <masked>false</masked>
+      <name>applyHospitalReadmission</name>
+   </variable>
+   <variable>
+      <defaultValue>'Medicaid\r\n'</defaultValue>
+      <description></description>
+      <id>76190fe1-493f-4370-b949-039aec9c200a</id>
+      <masked>false</masked>
+      <name>healthcareProgram</name>
+   </variable>
+   <variable>
+      <defaultValue>'31/03/2022\r\n'</defaultValue>
+      <description></description>
+      <id>6ca0fbc0-2267-4a51-979f-b20f4eb2b357</id>
+      <masked>false</masked>
+      <name>visitDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'Testing\r\n'</defaultValue>
+      <description></description>
+      <id>e99e418a-5124-4611-a2fb-eee40094ec92</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>

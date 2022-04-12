@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Users can make an appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2e85baf-0bc1-45f2-8ac0-ca6386ab6b68</testCaseGuid>
+</TestCaseEntity>
